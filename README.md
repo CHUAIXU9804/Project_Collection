@@ -1,6 +1,6 @@
 # Project Collection
 # 👋 Hi there - This is Crystal X
-🎓 A recent Computer Information Systems college grad from Stony Brook University  
+🎓 A recent college grad in Computer Information Systems major from Stony Brook University  
 👩‍💻 Who am I?  
 ![Static Badge](https://img.shields.io/badge/who_am_i-Jr.%20Software%20Engineer-purple)
 ![Static Badge](https://img.shields.io/badge/who_am_i-On%20the%20Road%20to%20System%20Architect-green)
