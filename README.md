@@ -13,6 +13,6 @@
 ## Note
 This repo is intended to store projects I've created in the past. More projects may be added in the future.
 
-## Ctalog
+## Catalog
 --> TaskWizard - A Python application using Python Kivy Framework
 
